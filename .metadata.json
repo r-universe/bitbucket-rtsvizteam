@@ -1,0 +1,10 @@
+[
+  {
+    "package": "rtsdata",
+    "oncran": true
+  },
+  {
+    "package": "rtsplot",
+    "oncran": true
+  }
+]
